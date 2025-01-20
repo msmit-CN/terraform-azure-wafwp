@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/compare/v1.1.0...v1.2.0) (2025-01-20)
+
+
+### Features
+
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#14](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/14)) ([ef8295e](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/ef8295eddd1fdf0288f5c8f9cb485545c0e06853))
+* **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#17](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/17)) ([5aa1fbe](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/5aa1fbee1d252001371c72b42eab0d740f207fa5))
+* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#18](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/18)) ([04421de](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/04421deeb70b611f596553107b6daf3d71d0b6dc))
+* remove temporary files when deployment tests fails ([#15](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/15)) ([7725111](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/77251112de6be55a9af8ce1039afb1b1523ee21a))
+
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/compare/v1.0.3...v1.1.0) (2024-11-28)
 
 
